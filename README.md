@@ -1,4 +1,5 @@
 # Envestnet
+[logo]: https://www.google.com/imgres?imgurl=http%3A%2F%2Fmma.prnewswire.com%2Fmedia%2F460346%2FEnvestnet_Logo.jpg%3Fp%3Dfacebook&imgrefurl=https%3A%2F%2Fwww.prnewswire.com%2Fin%2Fnews-releases%2Fplaid-and-envestnet--yodlee-settle-patent-case-and-counterclaims-300401809.html&tbnid=DItrcbcSkZJAeM&vet=12ahUKEwimpOfg8b3oAhVMad8KHQ5BAmsQMygAegUIARDZAQ..i&docid=Ft16nQDZB0Jq2M&w=1995&h=1046&q=envestnet%20logo&hl=en&client=safari&ved=2ahUKEwimpOfg8b3oAhVMad8KHQ5BAmsQMygAegUIARDZAQ
 
 ## Overview and Origin
 
