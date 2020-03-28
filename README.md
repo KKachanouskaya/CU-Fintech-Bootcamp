@@ -30,13 +30,13 @@
 
 ## Results
 
-* Within **Envestnet Wealth Solutions**, the company competes on the basis of several factors, including:
-**   The breadth and quality of investment solutions and services to which the company provides access through technology platform;
-**   The number of custodians that are connected through technology platforms;
-**   The price of investment solutions and services;
-**   The ease of use of technology platforms; and
-**   The nature and scope of investment solutions and services that each wealth management provider believes are necessary to address their needs
-* Within **Envestnet Data & Analytics**, the company competes on the basis of several factors, including:
+Within **Envestnet Wealth Solutions**, the company competes on the basis of several factors, including:
+*   The breadth and quality of investment solutions and services to which the company provides access through technology platform;
+*   The number of custodians that are connected through technology platforms;
+*   The price of investment solutions and services;
+*   The ease of use of technology platforms; and
+*   The nature and scope of investment solutions and services that each wealth management provider believes are necessary to address their needs
+Within **Envestnet Data & Analytics**, the company competes on the basis of several factors, including:
 *   Reputation;
 *   Cloud-based delivery model;
 *   Data aggregation capability;
@@ -52,9 +52,8 @@
 
 
 ## Recommendations
-
-* The company can monetize on sale of its Yodlee business and invest proceeds in growth of its core Wealth Management Solutions segment.
 * In November 2015, acquired Yodlee, a provider of cloud-based digital financial services through data aggregation and data intelligence, for $590MM.
+* The company can monetize on sale of its Yodlee business and invest proceeds in growth of its core Wealth Management Solutions segment.
 * Direct competitor Plaid was acquired by Visa in Jan 2020 for $5.3Bn (~35x TEV/Revenue).
 
 Source: company public filings
