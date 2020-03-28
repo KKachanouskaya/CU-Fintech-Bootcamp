@@ -28,15 +28,15 @@
 * According to the 2019 InvestmentNews Advisor Technology Study, top-performing advice firms evaluate their technology more frequently and focus more on the impact that technology has on productivity and profitability. These firms place greater importance on technology that improves client experiences through more personalized advice, better outcomes and more effective marketing efforts.
 
 
-## Results
+## Success Factors
 
-Within **Envestnet Wealth Solutions**, the company competes on the basis of several factors, including:
+Within **Envestnet Wealth Solutions**:
 *   The breadth and quality of investment solutions and services to which the company provides access through technology platform;
 *   The number of custodians that are connected through technology platforms;
 *   The price of investment solutions and services;
 *   The ease of use of technology platforms; and
-*   The nature and scope of investment solutions and services that each wealth management provider believes are necessary to address their needs
-Within **Envestnet Data & Analytics**, the company competes on the basis of several factors, including:
+*   The nature and scope of investment solutions and services that are necessary to address investor advisors' needs
+Within **Envestnet Data & Analytics**:
 *   Reputation;
 *   Cloud-based delivery model;
 *   Data aggregation capability;
