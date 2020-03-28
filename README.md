@@ -8,13 +8,19 @@
 * The company's founder and CEO Jud Bergman was killed in a car accident in October 2019. 
 * Co-Founder & Interim CEO – William Crager - has served as the CEO since October 2019 after serving as Envestnet’s President from 2002 to 2019 (succeeded the late Judson Bergman).
 * Envestnet was founded in 1999 and headquartered in Chicago, Illinois.
+[Envestnet](https://www.envestnet.com)
 
 
 ## Business Activities:
 
+* The company primarily serves banks, wealth management and brokerage firms, Internet services companies, and registered investment advisers. 
 * More than 4,700 companies, including 16 of the 20 largest U.S. banks, 43 of the 50 largest wealth management and brokerage firms, over 500 of the largest registered investment advisers (“RIAs”) and hundreds of internet services companies, leverage Envestnet technology and services. 
 * It operates through Envestnet and Envestnet | Yodlee segments. 
-* The company’s product and services suites include Envestnet | Enterprise, which provides an end-to-end open architecture wealth management platform, as well as sells data aggregation and reporting, data analytics, and digital advice capabilities; Envestnet | Tamarac that provides trading, rebalancing, portfolio accounting, performance reporting, and client relationship management software; Envestnet | Retirement Solutions, which offer a suite of services for advisor-sold retirement plans; and Envestnet | Portfolio Management Consultants that provide research, due diligence, and consulting services to assist advisors in creating investment solutions for their clients, and patented portfolio overlay and tax optimization services. It also provides Envestnet | Yodlee data aggregation and data analytics platform, which offers cloud-based innovation for digital financial services. 
+* The company’s product and services suites include:
+  1. Envestnet | Enterprise, which provides an end-to-end open architecture wealth management platform, as well as sells data aggregation and reporting, data analytics, and digital advice capabilities
+  2. Envestnet | Tamarac that provides trading, rebalancing, portfolio accounting, performance reporting, and client relationship management software
+  3. Envestnet | Retirement Solutions, which offer a suite of services for advisor-sold retirement plans; and Envestnet | Portfolio Management Consultants that provide research, due diligence, and consulting services to assist advisors in creating investment solutions for their clients, and patented portfolio overlay and tax optimization services
+  4. It also provides Envestnet | Yodlee data aggregation and data analytics platform, which offers cloud-based innovation for digital financial services. 
 * The company primarily serves banks, wealth management and brokerage firms, Internet services companies, and registered investment advisers. 
 
 ## Business Model:
@@ -36,6 +42,7 @@ Within **Envestnet Wealth Solutions**:
 *   The price of investment solutions and services;
 *   The ease of use of technology platforms; and
 *   The nature and scope of investment solutions and services that are necessary to address investor advisors' needs
+
 Within **Envestnet Data & Analytics**:
 *   Reputation;
 *   Cloud-based delivery model;
@@ -53,7 +60,7 @@ Within **Envestnet Data & Analytics**:
 
 ## Recommendations
 * In November 2015, acquired Yodlee, a provider of cloud-based digital financial services through data aggregation and data intelligence, for $590MM.
-* The company can monetize on sale of its Yodlee business and invest proceeds in growth of its core Wealth Management Solutions segment.
+* Envestnet can monetize on sale of its Yodlee business and invest proceeds in growth of its core Wealth Management Solutions segment.
 * Direct competitor Plaid was acquired by Visa in Jan 2020 for $5.3Bn (~35x TEV/Revenue).
 
 Source: company public filings. 
