@@ -1,6 +1,6 @@
 # Envestnet
 
-![logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.prnewswire.com%2Fin%2Fnews-releases%2Fplaid-and-envestnet--yodlee-settle-patent-case-and-counterclaims-300401809.html&psig=AOvVaw00Z5f0Q75pL0X30cg5sg3m&ust=1585509624262000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjZ4PnzvegCFQAAAAAdAAAAABAJ)
+![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Logo.jpeg)
 
 ## Overview and Origin
 
