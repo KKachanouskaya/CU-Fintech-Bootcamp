@@ -34,6 +34,8 @@
 
 ## Financial Performance
 
+* The company has shown strong organic growth, accelerated by disciplined acquisition strategy
+
 ![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Financials.png)
 
 
