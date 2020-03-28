@@ -23,9 +23,19 @@
   4. It also provides Envestnet | Yodlee data aggregation and data analytics platform, which offers cloud-based innovation for digital financial services. 
 * The company primarily serves banks, wealth management and brokerage firms, Internet services companies, and registered investment advisers. 
 
+
+## Representative Customers:
+
+![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Customers.png)
+
 ## Business Model:
 
 * Envestnet provides asset-based, subscription-based and professional services on a business-to-business-to-consumer (“B2B2C”) basis to financial services clients, whereby customers offer solutions based on it's platform to their end users. On a business-to-business (“B2B”) basis, Envestnet delivers an open platform to customers and third-party developers through an open API framework.
+
+## Financial Performance
+
+![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Customers.png)
+
 
 ## Landscape / Industry Trends:
 
