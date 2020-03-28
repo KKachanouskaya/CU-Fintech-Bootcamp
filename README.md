@@ -56,5 +56,5 @@ Within **Envestnet Data & Analytics**:
 * The company can monetize on sale of its Yodlee business and invest proceeds in growth of its core Wealth Management Solutions segment.
 * Direct competitor Plaid was acquired by Visa in Jan 2020 for $5.3Bn (~35x TEV/Revenue).
 
-Source: company public filings
+Source: company public filings. 
 
