@@ -34,7 +34,7 @@
 
 ## Financial Performance
 
-![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Customers.png)
+![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Financials.png)
 
 
 ## Landscape / Industry Trends:
