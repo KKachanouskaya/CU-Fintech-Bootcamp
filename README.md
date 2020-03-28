@@ -3,9 +3,8 @@
 ## Overview and Origin
 
 * Envestnet is a leading provider of intelligent systems for wealth management and financial wellness.
-* Envestnet’s unified technology enhances advisor productivity and strengthens the wealth management process.
-* Envestnet empowers enterprises and advisors to more fully understand their clients and deliver better outcomes.
-* The company's founder and CEO Jud Bergman was killed in a car accident in October 2019. 
+* Envestnet’s unified technology enhances advisor productivity and strengthens the wealth management process, empowering enterprises and advisors to more fully understand their clients and deliver better outcomes.
+* In late 2019, the company announced strategic review after it's founder and CEO Jud Bergman was killed in a car accident.
 * Co-Founder & Interim CEO – William Crager - has served as the CEO since October 2019 after serving as Envestnet’s President from 2002 to 2019 (succeeded the late Judson Bergman).
 * Envestnet was founded in 1999 and headquartered in Chicago, Illinois.
 * Company website: [Envestnet](https://www.envestnet.com)
@@ -13,8 +12,6 @@
 
 ## Business Activities:
 
-* The company primarily serves banks, wealth management and brokerage firms, Internet services companies, and registered investment advisers. 
-* More than 4,700 companies, including 16 of the 20 largest U.S. banks, 43 of the 50 largest wealth management and brokerage firms, over 500 of the largest registered investment advisers (“RIAs”) and hundreds of internet services companies, leverage Envestnet technology and services. 
 * It operates through Envestnet and Envestnet | Yodlee segments. 
 * The company’s product and services suites include:
   1. Envestnet | Enterprise, which provides an end-to-end open architecture wealth management platform, as well as sells data aggregation and reporting, data analytics, and digital advice capabilities
@@ -24,13 +21,19 @@
 * The company primarily serves banks, wealth management and brokerage firms, Internet services companies, and registered investment advisers. 
 
 
-## Representative Customers:
+## Customers:
+
+* The company primarily serves banks, wealth management and brokerage firms, Internet services companies, and registered investment advisers. 
+* More than 4,700 companies, including 16 of the 20 largest U.S. banks, 43 of the 50 largest wealth management and brokerage firms, over 500 of the largest registered investment advisers (“RIAs”) and hundreds of internet services companies, leverage Envestnet technology and services. 
 
 ![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Customers.png)
 
 ## Business Model:
 
 * Envestnet provides asset-based, subscription-based and professional services on a business-to-business-to-consumer (“B2B2C”) basis to financial services clients, whereby customers offer solutions based on it's platform to their end users. On a business-to-business (“B2B”) basis, Envestnet delivers an open platform to customers and third-party developers through an open API framework.
+
+![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Customers.png)
+
 
 ## Financial Performance
 
