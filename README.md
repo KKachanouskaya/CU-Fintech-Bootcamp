@@ -1,5 +1,5 @@
 # Envestnet
-[logo]: https://www.google.com/imgres?imgurl=http%3A%2F%2Fmma.prnewswire.com%2Fmedia%2F460346%2FEnvestnet_Logo.jpg%3Fp%3Dfacebook&imgrefurl=https%3A%2F%2Fwww.prnewswire.com%2Fin%2Fnews-releases%2Fplaid-and-envestnet--yodlee-settle-patent-case-and-counterclaims-300401809.html&tbnid=DItrcbcSkZJAeM&vet=12ahUKEwimpOfg8b3oAhVMad8KHQ5BAmsQMygAegUIARDZAQ..i&docid=Ft16nQDZB0Jq2M&w=1995&h=1046&q=envestnet%20logo&hl=en&client=safari&ved=2ahUKEwimpOfg8b3oAhVMad8KHQ5BAmsQMygAegUIARDZAQ
+![alt text]: https://www.google.com/imgres?imgurl=http%3A%2F%2Fmma.prnewswire.com%2Fmedia%2F460346%2FEnvestnet_Logo.jpg%3Fp%3Dfacebook&imgrefurl=https%3A%2F%2Fwww.prnewswire.com%2Fin%2Fnews-releases%2Fplaid-and-envestnet--yodlee-settle-patent-case-and-counterclaims-300401809.html&tbnid=DItrcbcSkZJAeM&vet=12ahUKEwimpOfg8b3oAhVMad8KHQ5BAmsQMygAegUIARDZAQ..i&docid=Ft16nQDZB0Jq2M&w=1995&h=1046&q=envestnet%20logo&hl=en&client=safari&ved=2ahUKEwimpOfg8b3oAhVMad8KHQ5BAmsQMygAegUIARDZAQ
 
 ## Overview and Origin
 
@@ -9,7 +9,7 @@
 * The company's founder and CEO Jud Bergman was killed in a car accident in October 2019. 
 * Co-Founder & Interim CEO – William Crager - has served as the CEO since October 2019 after serving as Envestnet’s President from 2002 to 2019 (succeeded the late Judson Bergman).
 * Envestnet was founded in 1999 and headquartered in Chicago, Illinois.
-[Envestnet](https://www.envestnet.com)
+* [Envestnet](https://www.envestnet.com)
 
 
 ## Business Activities:
