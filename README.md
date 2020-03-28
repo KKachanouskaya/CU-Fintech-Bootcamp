@@ -1,5 +1,3 @@
-# Envestnet
-
 ![logo](https://github.com/KKachanouskaya/CU-Fintech-Bootcamp/blob/master/Logo.jpeg)
 
 ## Overview and Origin
